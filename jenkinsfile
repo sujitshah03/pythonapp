@@ -1,4 +1,0 @@
-stage('SCM Checkout'){
-	  git branch: 'main', url: 'git 'https://github.com/sujitshah03/pythonapp.git'
-  
-	}
